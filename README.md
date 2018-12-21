@@ -5,7 +5,7 @@ monday
 * [expansions](https://github.com/colevanderswands/expansions) (with the operators covered in sets & mappings)
 
 tuesday
-* [standard operators](https://github.com/colevanderswands/standard-operators)
+* [primitive operators](https://github.com/colevanderswands/primitive-operators)
 * [expansions](https://github.com/colevanderswands/expansions) (with the standard operators)
 
 wednesday
