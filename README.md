@@ -13,7 +13,7 @@ wednesday
 * [expansions](https://github.com/colevanderswands/expansions) (including the other operators)
 
 thursday
-* [s -> o -> s](https://github.com/colevanderswands/state-operation)   
+* [s -> o -> s](https://github.com/colevanderswands/state-operation-state)   
 
 friday
 * [meaningful computation](https://github.com/colevanderswands/meaningful-computation)  
