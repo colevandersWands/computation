@@ -6,7 +6,7 @@ monday
 
 tuesday
 * [primitive operators](https://github.com/colevanderswands/primitive-operators)
-* [expansions](https://github.com/colevanderswands/expansions) (with the standard operators)
+* [expansions](https://github.com/colevanderswands/expansions) (with all primitive operators)
 
 wednesday
 * [other operators](https://github.com/colevanderswands/other-operators)  
