@@ -10,7 +10,7 @@ tuesday
 
 wednesday
 * [other operators](https://github.com/colevanderswands/other-operators)  
-* [expansions](https://github.com/colevanderswands/expansions) (with the more operators)
+* [expansions](https://github.com/colevanderswands/expansions) (including the other operators)
 
 thursday
 * [s -> o -> s](https://github.com/colevanderswands/state-operation)   
