@@ -5,11 +5,12 @@ monday
 * [expansions](https://github.com/colevanderswands/expansions) (with the operators covered in sets & mappings)
 
 tuesday
-* continued expansions practice
+* [standard operators]()
+* [expansions](https://github.com/colevanderswands/expansions) (with the standard operators)
 
 wednesday
-* [other operators]()
-* [expansions](https://github.com/colevanderswands/expansions) (with the operators covered in other operators)
+* [more operators]()
+* [expansions](https://github.com/colevanderswands/expansions) (with the more operators)
 
 thursday
 * [s -> o -> s](https://github.com/colevanderswands/state-operation)   
